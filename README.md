@@ -1,5 +1,5 @@
 # Python Deep Learning Projects
-
+#iNtroduction
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997096 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997096.png" alt="Python Deep Learning Projects" height="256px" align="right"></a>
 
 This is the code repository for [Python Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997096), published by Packt.
@@ -49,6 +49,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Natural Language Processing with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789139495) [[Amazon]](https://www.amazon.com/dp/178913949X)
 
+
+#comments
 ## Get to Know the Author
 **Matthew Lamons**
 Matthew Lamons's background is in experimental psychology and deep learning. Founder and CEO of Skejul—the AI platform to help people manage their activities. Named by Gartner, Inc. as a "Cool Vendor" in the "Cool Vendors in Unified Communication, 2017" report. He founded The Intelligence Factory to build AI strategy, solutions, insights, and talent for enterprise clients and incubate AI tech startups based on the success of his Applied AI MasterMinds group. Matthew's global community of more than 85 K are leaders in AI, forecasting, robotics, autonomous vehicles, marketing tech, NLP, computer vision, reinforcement, and deep learning. Matthew invites you to join him on his mission to simplify the future and to build AI for good.
